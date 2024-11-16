@@ -17,9 +17,11 @@ The tool is easy to use with a simple interface, supports headless automation, a
 ## Installation
 
 To get started, clone the repository and install dependencies:
+```python
 git clone https://github.com/KonainMoeen/File_Manager.git
 cd File_Manager
 pip install -r requirements.txt
+```
 
 
 ## Contribution
