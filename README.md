@@ -1,4 +1,4 @@
-# File_Manager
+# File Manager
 A powerful and easy-to-use tool for automating file and folder management tasks.
 
 
